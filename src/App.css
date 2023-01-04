@@ -1,0 +1,29 @@
+* {
+  background: rgb(37, 35, 35);
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+article {
+  color: rgb(156, 150, 141);
+}
+input {
+  background: burlywood;
+  height: 1.5rem;
+  border-radius: 10px;
+} 
+button {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  color: beige;
+  background: blue;
+  border: 1px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+strong {
+  color: aqua;
+}
+
